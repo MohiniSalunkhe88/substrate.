@@ -20,7 +20,7 @@ Simply go through [substrate.dev](https://substrate.dev/) and follow the install
 Install the Node Template:
 You should already have version v3.0.0 of the Substrate Node Template compiled on your computer and completed the Create Your First Substrate Chain Tutorial. 
 
-### Add Patient pallet
+### Add Doctor pallet
 ```bash
 cd pallets
 git clone -b v3.0.0 --depth 1 https://github.com/substrate-developer-hub/substrate-pallet-template doctor
